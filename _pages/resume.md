@@ -3,5 +3,4 @@ title: "Resume"
 permalink: /resume/
 ---
 
-Click for PDF version of my resume
-you can [download pdf](https://hikmetdemir.com/assets/pdf/CV Hikmet Demir 2020.pdf) here.
+<a href="https://hikmetdemir.com/assets/pdf/CV Hikmet Demir 2020.pdf" target="_blank">Click for PDF version of my resume</a>
