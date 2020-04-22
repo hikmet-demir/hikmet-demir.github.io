@@ -26,6 +26,7 @@ CSIE 5322</a> - Big Data Systems </li>
 </p>
 <p>
 Data Scientist at <a href="orientis.ai" target="_blank">Orientis.ai</a>. We are developing AI based solutions in medical field and our work is focused on Covid-19 pandemic right now.
+Some examples from our work
 
 I will be joining Facebook Dublin in 2020 August as a Solution Engineer.
 </p>
