@@ -2,9 +2,9 @@
 main:
   - title: Home
     url: https://hikmetdemir.com/
-  - title: "Blog - Fix URL"
-    url: holder
-  - title: "Resume - Fix URL"
+  - title: "Blog"
+    url: blog
+  - title: "Resume"
     url: resume
 
   # - title: "About"
