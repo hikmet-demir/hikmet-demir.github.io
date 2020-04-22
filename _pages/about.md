@@ -25,7 +25,7 @@ CSIE 5322</a> - Big Data Systems </li>
 </ul>
 </p>
 <p>
-Data Scientist at <a href="orientis.ai" target="_blank">Orientis.ai</a>. I will be joining Facebook Dublin in 2020 August as a Solution Engineer.
+Data Scientist at <a href="orientis.ai" target="_blank">Orientis.ai</a>. I will be joining Facebook Dublin in 2020 August as a Solution Engineer...
 </p>
 
 </div>
